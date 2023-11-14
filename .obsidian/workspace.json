@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "7f1a8524c5d988a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "192b7f4d3b8bd9f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee60a9b22f39d47f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002-The Missing Semester/02-Shell Tools and Scripting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a451db59e79a3012",
+    "type": "split",
+    "children": [
+      {
+        "id": "576d26b08b0593e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "710d8f5375bc4471",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fdfc222b510c9a88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "260ea3e841c75a19",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe45e65ba0496c41",
+    "type": "split",
+    "children": [
+      {
+        "id": "487c418361f9ca98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc55d0df29fb22a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "002-The Missing Semester/02-Shell Tools and Scripting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d09ae4b1c505e8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "002-The Missing Semester/02-Shell Tools and Scripting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9886c75a68b13ea0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c62cd6ed2131e14e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "002-The Missing Semester/02-Shell Tools and Scripting.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "ee60a9b22f39d47f",
+  "lastOpenFiles": [
+    "002-The Missing Semester/01-Course overview + the shell.md",
+    "002-The Missing Semester/02-Shell Tools and Scripting.md",
+    "002-The Missing Semester/03-Editors(Vim).md",
+    "002-The Missing Semester/00-The Missing Semester Catalogue.md",
+    "02 Introduction to Computing System/01 The ISA.md",
+    "002-The Missing Semester",
+    "001-Book Reading",
+    "New/未命名.md",
+    "Attachment/丹尼尔斯经典跑步训练法[www.j9p.com](1).pdf",
+    "02 Introduction to Computing System",
+    "New/02.md",
+    "New/01 The Missing Semester.md",
+    "New/01 The Missing Semester",
+    "New/04 今晚i.md",
+    "New/03 嚄嚄嚄嚄.md",
+    "New/00 牛牛.md",
+    "未命名.md",
+    "未命名 1.md",
+    "00 牛顿的.md",
+    "New",
+    "000-Attachment",
+    "离散/未命名 2.md",
+    "概率/2.md",
+    "概率/1.md",
+    "离散/1.md",
+    "微积分",
+    "离散",
+    "概率"
+  ]
+}
